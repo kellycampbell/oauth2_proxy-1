@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/bitly/oauth2_proxy/cookie"
+	"github.com/2bitproxy/oauth2_proxy/cookie"
 )
 
 type Provider interface {
